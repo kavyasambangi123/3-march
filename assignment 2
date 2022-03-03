@@ -1,0 +1,10 @@
+cou=("mpcs","mecs","bsc")
+course=("bca","ds","c")
+print(cou, course)
+
+output:-
+('mpcs', 'mecs', 'bsc') ('bca', 'java', 'c++')
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
